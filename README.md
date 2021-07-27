@@ -1,2 +1,2 @@
-# weather-app-react-native
-react native app
+# Windy
+A react native cross platform application

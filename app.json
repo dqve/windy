@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weatherApp",
-    "slug": "weatherApp",
+    "name": "Windy",
+    "slug": "Windy",
     "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -29,7 +29,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "weather app ",
-    "githubUrl": "https://github.com/tobesegun"
+    "description": "Windy",
+    "githubUrl": "https://github.com/dqve/windy"
   }
 }
